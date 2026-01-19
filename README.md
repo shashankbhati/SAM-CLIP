@@ -30,7 +30,7 @@ CLIP based on a natural language prompt.
 
 ---
 
-Results example: prompt given = "small blocks or microstructures"
+Results example: prompt given = "small blocks or microstructures" (The segmented object will be masked in red colour)
 <img width="542" height="395" alt="image" src="https://github.com/user-attachments/assets/f633ebd7-29ca-47c8-aa78-20e9db6ea62f" />
 
 ---
