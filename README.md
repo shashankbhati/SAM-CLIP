@@ -1,4 +1,4 @@
-# SAM-CLIP
+# SAM-CLIP (Agentic AI) (company project)
 
 
 
